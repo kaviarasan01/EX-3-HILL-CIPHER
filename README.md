@@ -78,7 +78,7 @@ void decode(char a, char b, char c, char* result) {
 }
 
 int main() {
-    char msg[1000] = "SecurityLaboratory";
+    char msg[1000] = "kaviyarasan";
     char enc[1000] = "";
     char dec[1000] = "";
     char temp[4];
@@ -120,7 +120,8 @@ int main() {
 
 ## OUTPUT
 
-<img width="1350" height="978" alt="image" src="https://github.com/user-attachments/assets/df4e54e7-3324-4dea-9ce9-ee534d22f3a6" />
+<img width="346" height="214" alt="image" src="https://github.com/user-attachments/assets/6d58b7b5-a4c6-4c8e-a632-2f68687fb597" />
+
 
 
 ## RESULT
